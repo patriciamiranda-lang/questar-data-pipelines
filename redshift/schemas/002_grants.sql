@@ -1,0 +1,5 @@
+-- (Opcional por enquanto)
+-- Deixe este arquivo preparado para quando definirmos roles/usuários.
+-- Exemplo (troque pelos roles reais):
+-- GRANT USAGE ON SCHEMA admin TO ROLE read_role;
+-- GRANT USAGE ON SCHEMA dw_redshift TO ROLE read_role;
